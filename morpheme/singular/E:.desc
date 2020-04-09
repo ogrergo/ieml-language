@@ -7,4 +7,6 @@
 "E:" fr comments "En IEML, tous les auxiliaires commencent par la lettre *E*."
 "E:" en comments "In IEML, all auxiliaries begin by the letter *E*."
 "E:" fr tags "test"
+"E:" fr tags "new tag"
 "E:" en tags "test"
+"E:" en tags "new tag"
